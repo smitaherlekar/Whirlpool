@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>whirlpool-demo Content Package</comment>
+<entry key="createdBy">herlekar</entry>
+<entry key="name">dastm.ui.apps</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2018-08-27T00:29:12.823-0400</entry>
+<entry key="groupId">com.whirlpool-demo</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">my-packages</entry>
+<entry key="description">Maven Multimodule project for whirlpool-demo.</entry>
+<entry key="artifactId">dastm.ui.apps</entry>
+<entry key="path">/etc/packages/my-packages/dastm.ui.apps.zip</entry>
+</properties>
